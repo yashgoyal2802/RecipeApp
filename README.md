@@ -16,12 +16,6 @@ Also it `redirects to browser` for the details of a particular recipe.
         -> Android Studio
         -> With Kotlin Support
 
-## Accessing tips :
-
-1. Clone or download the repository: `https://github.com/P4NK4J/android_kotlin_Cuisine_app`
-2. Navigate to the folder `app` Folder
-3. Navigate to the folder `anroid_kotlin_Cuisine_app/app/src/` to access developers content
-
 ## Features
 
 * Google's Volley Library
@@ -54,3 +48,9 @@ Also it `redirects to browser` for the details of a particular recipe.
 <div>
 <img alt="App image" src="./branding/screenshots/Group_3.png" width="35%" hspace="20">
 </div>
+
+## Accessing tips :
+
+1. Clone or download the repository: `https://github.com/P4NK4J/android_kotlin_Cuisine_app`
+2. Navigate to the folder `app` Folder
+3. Navigate to the folder `anroid_kotlin_Cuisine_app/app/src/` to access developers content
