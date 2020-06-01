@@ -3,17 +3,21 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
-    android:background="@color/cute"
+    android:background="@color/red"
     tools:context=".activity.splashActivity"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <ImageView
         android:layout_width="371dp"
-        android:layout_height="548dp" app:srcCompat="@drawable/images"
+        android:layout_height="548dp"
+        app:srcCompat="@drawable/images"
         android:id="@+id/imageView3"
         app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginTop="112dp" app:layout_constraintStart_toStartOf="parent"
-        android:layout_marginStart="16dp" app:layout_constraintBottom_toBottomOf="parent"
-        android:layout_marginBottom="71dp" app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="112dp"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="71dp"
+        app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginEnd="24dp"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

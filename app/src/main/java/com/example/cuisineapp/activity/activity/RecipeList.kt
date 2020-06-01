@@ -41,10 +41,10 @@ class RecipeList : AppCompatActivity() {
         var url: String?
 
         var extras = intent.extras          ///putting up intent data from put extras into object
-        var ingredients = extras.get("Ingredients")
-        var searchTerm =  extras.get("search")
-        if(extras != null && !ingredients.equals("")              // after this information we need to construct our url
-            && !searchTerm.equals("")) {
+        var ingredients = extras?.get("Ingredients")
+        var searchTerm = extras?.get("search")
+        if(extras != null && !ingredients!!.equals("")              // after this information we need to construct our url
+            && !searchTerm!!.equals("")) {
 
             //constructing the url
             var tempUrl = LEFT_LINK + ingredients + QUERY + searchTerm    //format of specific url
@@ -56,10 +56,6 @@ class RecipeList : AppCompatActivity() {
             url = "http://www.recipepuppy.com/api/?i=onions,garlic&q=omelet&p=3"
 
         }
-
-
-
-
 
         //instantiating our recipeList
 

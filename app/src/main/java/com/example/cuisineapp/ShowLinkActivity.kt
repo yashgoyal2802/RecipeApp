@@ -10,10 +10,10 @@ class ShowLinkActivity  : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_show_link)
 
-        val extras  = intent.extras
+        var extras  = intent.extras
         if(extras != null)
         {
-            val link = extras.get("link")  // the link which we passes in intent inside adapter
+            var link = extras.get("link")  // the link which we passes in intent inside adapter
 
             webViewId.loadUrl(link.toString()) // accessing web using web view
         }
