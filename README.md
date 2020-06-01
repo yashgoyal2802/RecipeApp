@@ -15,17 +15,17 @@ Also it `redirects to browser` for the details of a particular recipe.
 ## Screenshots
 
 <div style="display:flex;">
-<img alt="App image" src="./branding/screenshots/Group_4.png" width="40%" hspace="15">
-<img alt="App image" src="./branding/screenshots/Group_5.png" width="40%" hspace="15">
+<img alt="App image" src="./branding/screenshots/Group_4.png" width="40%" hspace="20">
+<img alt="App image" src="./branding/screenshots/Group_5.png" width="40%" hspace="20">
 </div>
 <br/>
 <br/>
 <div style="display:flex;">
-<img alt="App image" src="./branding/screenshots/Group_1.png" width="40%" hspace="15">
-<img alt="App image" src="./branding/screenshots/Group_2.png" width="40%" hspace="15">
+<img alt="App image" src="./branding/screenshots/Group_1.png" width="40%" hspace="20">
+<img alt="App image" src="./branding/screenshots/Group_2.png" width="40%" hspace="20">
 </div>
 <br/>
 <br/>
 <div>
-<img alt="App image" src="./branding/screenshots/Group_3.png" width="40%" hspace="15">
+<img alt="App image" src="./branding/screenshots/Group_3.png" width="40%" hspace="20">
 </div>
