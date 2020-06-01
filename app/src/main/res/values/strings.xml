@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CuisineApp</string>
+    <string name="Title">what would you like to cook..?</string>
+    <string name="buttonText">go...!!</string>
+</resources>
