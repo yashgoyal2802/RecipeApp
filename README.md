@@ -1,4 +1,4 @@
-<p align="center"><img height="110px" width="110px" src="./branding/other/logo.png" alt="Reciepe App"/><img height="95px" width="310px" src="./branding/other/text.png" alt="Reciepe App"/></p>
+<p align="center"><img height="110px" width="110px" src="./branding/other/logo.png" alt="Recipe App"/><img height="95px" width="310px" src="./branding/other/text.png" alt="Recipe App"/></p>
 
 
 
@@ -8,7 +8,7 @@
 
 For all the maniacs of cooking and those who have a hidden chef, the Cuisine app provides the recipe for the dish you want to cook with your own ingredients..!!
 sounds amazing..??
-It uses `Google volley library` alongwith `picasso` to bring out the image for a dish, also uses `json` for fetching the data
+It uses `Google volley library` along with `picasso` to bring out the image for a dish, also uses `json` for fetching the data
 concept of `remote api` is implemented
 Also it `redirects to browser` for the details of a particular recipe.
 
@@ -20,7 +20,7 @@ Also it `redirects to browser` for the details of a particular recipe.
 
 * Google's Volley Library
 * Remote API
-* Picasso Libray
+* Picasso Library
 * Recipe Puppy API
 * Splash screen
 * Custom ListView
