@@ -12,6 +12,31 @@ It uses `Google volley library` alongwith `picasso` to bring out the image for a
 concept of `remote api` is implemented
 Also it `redirects to browser` for the details of a particular recipe.
 
+## Platform
+        -> Android Studio
+        -> With Kotlin Support
+
+## Accessing tips :
+
+1. Clone or download the repository: `https://github.com/P4NK4J/android_kotlin_Cuisine_app`
+2. Navigate to the folder `app` Folder
+3. Navigate to the folder `anroid_kotlin_Cuisine_app/app/src/` to access developers content
+
+## Features
+
+* Google's Volley Library
+* Remote API
+* Picasso Libray
+* Recipe Puppy API
+* Splash screen
+* Custom ListView
+* Cardview
+* Webview
+* ImageView
+* Simplified Theme
+* Well Constrained Layout
+
+
 ## Screenshots
 
 <div style="display:flex;">
