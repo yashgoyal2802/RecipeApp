@@ -2,7 +2,6 @@
 
 
 
-
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/yashgoyal2802/ReciepeApp/blob/master/LICENSE)
 [![Language](https://img.shields.io/badge/Kotlin-100.0%25-success)](https://kotlinlang.org/)
 
@@ -17,3 +16,18 @@ Also it `redirects to browser` for the details of a particular recipe.
 
 <p><img height="345px" width="160px" src="./branding/screenshots/Group_1.png" alt="Search Reciepe"/> <img height="345px" width="160px" src="./branding/screenshots/Group_2.png" alt="Reciepe"/> <img height="345px" width="160px" src="./branding/screenshots/Group_3.png" alt="Reciepe"/>
 
+<div style="display:flex;">
+<img alt="App image" src="./branding/screenshots/Group_4.png" width="30%" hspace="10">
+<img alt="App image" src="./branding/screenshots/Group_5.png" width="30%" hspace="10">
+</div>
+<br/>
+<br/>
+<div style="display:flex;">
+<img alt="App image" src="./branding/screenshots/Group_1.png" width="30%" hspace="10">
+<img alt="App image" src="./branding/screenshots/Group_2.png" width="30%" hspace="10">
+</div>
+<br/>
+<br/>
+<div style="display:flex;">
+<img alt="App image" src="./branding/screenshots/Group_3.png" width="30%" hspace="10">
+</div>
