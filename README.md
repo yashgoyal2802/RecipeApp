@@ -14,8 +14,6 @@ Also it `redirects to browser` for the details of a particular recipe.
 
 ## Screenshots
 
-<p><img height="345px" width="160px" src="./branding/screenshots/Group_1.png" alt="Search Reciepe"/> <img height="345px" width="160px" src="./branding/screenshots/Group_2.png" alt="Reciepe"/> <img height="345px" width="160px" src="./branding/screenshots/Group_3.png" alt="Reciepe"/>
-
 <div style="display:flex;">
 <img alt="App image" src="./branding/screenshots/Group_4.png" width="30%" hspace="10">
 <img alt="App image" src="./branding/screenshots/Group_5.png" width="30%" hspace="10">
