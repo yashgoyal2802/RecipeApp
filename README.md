@@ -1,4 +1,4 @@
-<p align="center"><img height="110px" width="110px" src="./branding/other/logo.png" alt="Reciepe App"/><img height="100px" width="315px" src="./branding/other/text.png" alt="Reciepe App"/></p>
+<p align="center"><img height="110px" width="110px" src="./branding/other/logo.png" alt="Reciepe App"/><img  src="./branding/other/text.png" alt="Reciepe App"/></p>
 
 
 
